@@ -6,4 +6,4 @@ Este repositorio hace es correr un codigo que desprende una ventana de un admini
 Se debe de tener la biblioteca de tkinter para poder usar este codigo y se usa con el comando "py AplicacionTareas.py clase7"en el directorio de  ".\clase7"
 
 ## Ejemplo de uso 
-![alt text](images/image.png)
+![alt text](Images/image.png)
